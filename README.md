@@ -1,6 +1,6 @@
 # Radar Distance Measurement System
 
-This repository contains the design files, implementation flow, and project report for my VLSI Internship project.
+This repository contains the design files, implementation flow, and project report of my Internship project.
 
 **Project:** Radar Distance Measurement System
 
